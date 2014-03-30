@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "results": [
+    {
+      "LongName": "Marketing",
+      "ShortName": "Marketing",
+      "PositionID": 1
+    },
+    {
+      "LongName": "Sales",
+      "ShortName": "Sales",
+      "PositionID": 2
+    },
+    {
+      "LongName": "Support",
+      "ShortName": "Support",
+      "PositionID": 3
+    }
+  ]
+}

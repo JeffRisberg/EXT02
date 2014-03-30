@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "results": [
+    {
+      "LongName": "Newly Received",
+      "ShortName": "Newly Received",
+      "StatusID": 1
+    },
+    {
+      "LongName": "Inspected",
+      "ShortName": "Inspected",
+      "StatusID": 2
+    },
+    {
+      "LongName": "On-lot",
+      "ShortName": "On-lot",
+      "StatusID": 3
+    },
+    {
+      "LongName": "Sold",
+      "ShortName": "Sold",
+      "StatusID": 4
+    }
+  ]
+}
